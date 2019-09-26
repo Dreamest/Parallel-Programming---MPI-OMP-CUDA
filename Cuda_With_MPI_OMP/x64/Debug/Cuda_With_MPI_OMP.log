@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\cudauser\downloads\cuda_with_mpi_omp\cuda_with_mpi_omp\cuda_with_mpi_omp\main.cpp(127): warning C4101: 'tid': unreferenced local variable
+  Cuda_With_MPI_OMP.vcxproj -> C:\Users\cudauser\Downloads\Cuda_With_MPI_OMP\Cuda_With_MPI_OMP\x64\Debug\Cuda_With_MPI_OMP.exe
+  Cuda_With_MPI_OMP.vcxproj -> C:\Users\cudauser\Downloads\Cuda_With_MPI_OMP\Cuda_With_MPI_OMP\x64\Debug\Cuda_With_MPI_OMP.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart*.dll" "C:\Users\cudauser\Downloads\Cuda_With_MPI_OMP\Cuda_With_MPI_OMP\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart32_91.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart64_91.dll
+          2 file(s) copied.
